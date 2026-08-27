@@ -9,9 +9,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 ### 🌱 Currently Learning
-- Advanced CSS
-- React Ecosystem
-- Next.js Projects
+- Advanced React
+- Next.js
+- TypeScript
 
 ### 📫 Contact Me
 
