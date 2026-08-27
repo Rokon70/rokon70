@@ -1,14 +1,26 @@
 # 👋 Hi, I'm Rokon Sarker
 
-💼 Full-time Freelancer | Learner of Front-End & Web Development
+💼 Full-time Freelancer | Front-End Web Developer
 
-🚀 I build modern, responsive, and user-friendly websites that help businesses grow their online presence.
+I'm learning and building modern, responsive, and user-friendly web applications with React and Next.js. I enjoy turning ideas into clean, fast, and accessible websites.
 
-### 🛠️ Core Skills
+## 🚀 Tech Stack
 
-HTML5 · CSS3 · JavaScript · TypeScript · React.js · Next.js
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
 
-### 📫 Contact Me
+## 🌱 Currently Learning
 
-📧 odesk.rokon@gmail.com
-:::
+- Advanced CSS
+- React Ecosystem
+- Next.js Projects
+- UI/UX Best Practices
+
+## 📫 Contact Me
+
+- 📧 odesk.rokon@gmail.com
+- 🌐 GitHub: https://github.com/Rokon70
