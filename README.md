@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=%23336EF3&center=true&vCenter=true&width=435&lines=Welcome%20to%20my%20GitHub%20profile!%20%F0%9F%91%8B%3BDeveloping%20seamless%20digital%20experiences%20for%20the%20web.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=%23336EF3&center=false&vCenter=true&width=435&lines=Welcome%20to%20my%20GitHub%20profile!%20%F0%9F%91%8B%3BLet's%20build%20for%20the%20web)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Rokon Sarker
 
