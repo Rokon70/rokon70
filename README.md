@@ -8,7 +8,7 @@
 
 ### 🛠️ Core Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 ### 🌱 Currently Learning
 - Advanced React
