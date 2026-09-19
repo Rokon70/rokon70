@@ -2,9 +2,9 @@
 
 ##  Hi, I'm Rokon Sarker
 
-#### 💼 Full-time Freelancer | Aspiring Front-End Developer
+#### 💼 Full-time Freelancer | Front-End Developer
 
-🚀 I'm learning to build modern, responsive, and user-friendly websites that help businesses grow their online presence. I enjoy turning ideas into clean, fast, and accessible websites.
+🚀 I'm always learning to build modern, responsive, and user-friendly websites that help businesses grow their online presence. I enjoy turning ideas into clean, fast, and accessible websites.
 
 ### 🛠️ Core Skills
 
@@ -13,7 +13,6 @@
 ### 🌱 Currently Learning
 - Advanced React
 - Next.js
-- TypeScript
 
 ### 📫 Contact Me
 
