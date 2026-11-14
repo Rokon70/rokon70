@@ -50,14 +50,6 @@ I'm always learning to build <b>modern, responsive and user-friendly websites</b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokon70&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 📊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rokon70/rokon70/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
-</p>
-
-<br />
-
 ## 🤝 Connect With Me
 
 <p align="center">
